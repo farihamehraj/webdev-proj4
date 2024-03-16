@@ -1,0 +1,210 @@
+body {
+    background-color: burlywood !important;
+    color: black;
+}
+
+.navbar {
+    background-color: #8b4513;
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+    color: wheat !important;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+#hero {
+    background-image: url("https://i.pinimg.com/originals/3d/7d/b3/3d7db326007e5dc25023b62ee5a1906d.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    text-align: center;
+    margin: 0;
+}
+
+#hero h2 {
+    margin-top: 600px;
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 3px;
+}
+
+#hero p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    font-style: italic;
+    color: black;
+    margin-bottom: 20px;
+}
+
+#about {
+    margin-top: 100px;
+}
+
+.about-text h2 {
+    margin-top: 0;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.about-text p {
+    font-family: 'Times New Roman', serif;
+    font-size: 15px;
+    color: black;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+#contact {
+    margin-top: 30px;
+}
+
+#contact h2 {
+    margin-top: 0;
+    font-size: 23px;
+    color: black;
+    font-weight: bold;
+}
+
+#contact p {
+    font-family: 'Times New Roman', serif;
+    font-size: 16px;
+    color: black;
+}
+
+#contact .row {
+    justify-content: center;
+}
+
+#contact .col-md-4 {
+    text-align: center;
+}
+
+#newsletter {
+    padding: 20px 0;
+}
+
+#newsletter h2 {
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#newsletter p {
+    margin-bottom: 30px;
+    font-size: 15px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#newsletter form {
+    max-width: 250px;
+    margin: 0 auto;
+    font-size: 15px;
+}
+
+#newsletter input[type="email"] {
+    width: 100%;
+}
+
+#newsletter button {
+    width: 100%;
+}
+
+
+footer p {
+    margin: 0;
+    background-color: #8b4513;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+}
+
+footer {
+    background-color: #8b4513 !important;
+    color: wheat;
+}
+
+h2 {
+    letter-spacing: 3px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+ul h6 {
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.price {
+    font-size: 16px;
+    font-weight: bold;
+    color: #8b4513;
+    margin-left: 10px;
+}
+
+#visit {
+    margin-top: 30px;
+}
+
+#visit h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+
+#visit h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+#visit p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+}
+
+#menu h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    font-weight: bold;
+    letter-spacing: 7px;
+}
+
+#menu h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+
+#menu h6 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+#menu li {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
